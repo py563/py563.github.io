@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PYM</title>
+    <link>http://www.prajwalyashasvi.me/tags/</link>
+    <description>Recent content in Tags on PYM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.prajwalyashasvi.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Banking</title>
+      <link>http://www.prajwalyashasvi.me/tags/banking/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/banking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Pay</title>
+      <link>http://www.prajwalyashasvi.me/tags/bill-pay/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/bill-pay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Web</title>
+      <link>http://www.prajwalyashasvi.me/tags/deep-web/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/deep-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Maker</title>
+      <link>http://www.prajwalyashasvi.me/tags/difference-maker/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/difference-maker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Engine</title>
+      <link>http://www.prajwalyashasvi.me/tags/search-engine/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/search-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Deep Web</title>
+      <link>http://www.prajwalyashasvi.me/tags/semantic-deep-web/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/semantic-deep-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umass Lowell</title>
+      <link>http://www.prajwalyashasvi.me/tags/umass-lowell/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/tags/umass-lowell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

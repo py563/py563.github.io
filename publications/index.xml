@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on PYM</title>
+    <link>http://www.prajwalyashasvi.me/publications/</link>
+    <description>Recent content in Publications on PYM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jul 2018 14:55:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.prajwalyashasvi.me/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Banking Assistant</title>
+      <link>http://www.prajwalyashasvi.me/publications/differencemaker2014/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/publications/differencemaker2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Deep Web</title>
+      <link>http://www.prajwalyashasvi.me/publications/felicity2k10/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.prajwalyashasvi.me/publications/felicity2k10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
