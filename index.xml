@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on PYM</title>
-    <link>http://www.prajwalyashasvi.me/</link>
+    <link>https://py563.github.io/</link>
     <description>Recent content in Home on PYM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jul 2018 18:56:13 -0500</lastBuildDate>
     
-	<atom:link href="http://www.prajwalyashasvi.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://py563.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personal Banking Assistant</title>
-      <link>http://www.prajwalyashasvi.me/publications/differencemaker2014/</link>
+      <link>https://py563.github.io/publications/differencemaker2014/</link>
       <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.prajwalyashasvi.me/publications/differencemaker2014/</guid>
+      <guid>https://py563.github.io/publications/differencemaker2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Deep Web</title>
-      <link>http://www.prajwalyashasvi.me/publications/felicity2k10/</link>
+      <link>https://py563.github.io/publications/felicity2k10/</link>
       <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://www.prajwalyashasvi.me/publications/felicity2k10/</guid>
+      <guid>https://py563.github.io/publications/felicity2k10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>http://www.prajwalyashasvi.me/search/</link>
+      <link>https://py563.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.prajwalyashasvi.me/search/</guid>
+      <guid>https://py563.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
