@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/prajwalyashasvi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://prajwalyashasvi.in
+  * I am prajwalyashasvi (https://keybase.io/prajwalyashasvi) on keybase.
+  * I have a public key ASB__k4yMQnFxiRoZQN5rklpUxx0yJk8wqC1hkJLBUSiCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207ffe4e323109c5c62468650379ae4969531c74c8993cc2a0b586424b0544a2090a",
+      "host": "keybase.io",
+      "kid": "01207ffe4e323109c5c62468650379ae4969531c74c8993cc2a0b586424b0544a2090a",
+      "uid": "6f5c7a40232571b1e96bb8209f567419",
+      "username": "prajwalyashasvi"
+    },
+    "merkle_root": {
+      "ctime": 1588491934,
+      "hash": "8a143d11b659ee5cc69ae931b0c169c73fc690ab00e967eb221c727eedff687f4e563f960fb68c11f9d96648b9a320f66384d8b9aaf928044a9cb9e3adfaf4d8",
+      "hash_meta": "9868f7e97ae7bd01fe0aa7524188c27fe28921ae1890c174ea22c5baeff51b81",
+      "seqno": 16139859
+    },
+    "service": {
+      "entropy": "xlNdGyO876LqorzMhWaMjMRb",
+      "hostname": "prajwalyashasvi.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588492041,
+  "expire_in": 504576000,
+  "prev": "fdd1119968e16832ec8dc85ac487e1a72e2e93bf9a3e0fda5e5309a34881f67f",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgf/5OMjEJxcYkaGUDea5JaVMcdMiZPMKgtYZCSwVEogkKp3BheWxvYWTESpcCCsQg/dERmWjhaDLsjchaxIfhpy4uk7+aPg/aXlMJo0iB9n/EICH94dNqLNnXS39hoKtQFtzjq/g3Zl8UNDwdDW8odxArAgHCo3NpZ8RAK1ElfdMs51s6hD6QLqSIdZfMf9EGvkW/Rpui7C+7B2k8kHKEjtm7r2M5WBUeENx2PCX4c/E7nKvLZzWRZNQmCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINHtGaNbV1Yv/Tim9weWouky2RkZvkpDKyQrBcUYS+5Ro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/prajwalyashasvi
+
+==================================================================
