@@ -1,0 +1,21 @@
+[
+    {
+        "role":"Research Engineer",
+        "company":"Philips",
+        "summary":"As a research engineer in CISO I developed an anti-phishing platform for Microsoft Outlook, developed a script to classify training and awareness emails reported by employees. Designed Java based threat learning and visualization platform, which stored and parsed threat streams and internal threat history data as nodes and edges in graph database schematics through Orient DB.",
+        "range":"April 2016 - July 2017"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"SymbioSys Solutions Inc",
+		"project": "New Hampshire State Unemployment Insurance",
+        "summary":"Supported the existing NHUIS system through CV Harvest based enhancement and defects requests,Enhanced NHUIS to reflect changes in updated RESEA program of US Labor Dept. Designed user web help guide for the applications, performed Cross Browser Testing and tests for Section 508 and W3C standards. Helped team in redesigning existing system to Spring framework, Hibernate & HTML5.",
+        "range":"May 2015 – Feb 2016"
+    },
+    {
+        "role":"Associate Software Engineer",
+        "company":"Tech Mahindra",
+        "summary":"At Tech Mahindra as fresh graduate from school, I was assigned to training program in Java-J2EE, wherein worked on case studies as proof of concepts in Spring, Hibernate and Struts frameworks. Later I worked on Integrated Test Data Management framework to support test data generation for the projects taken up by organization. I developed user interface and functionality creating ticket and checking status of ticket modules, using Spring MVC framework. Also worked on database design and validating data in tables using MySQL Workbench.",
+        "range":"June 2012 - August 2013"
+    }
+]

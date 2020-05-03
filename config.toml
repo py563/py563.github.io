@@ -1,0 +1,56 @@
+baseURL = "https://py563.github.io/"
+languageCode = "en-us"
+title = "PYM"
+theme = "hugo-resume"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = true
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    firstName = "Prajwal"
+    lastName = "Maredukonda"
+    address = "South Bend, IN"
+    contactNote = "Software Engineer"
+    profileImage = "img/TechChat.png"
+    email = "prajwalyashasvi@yahoo.co.in"
+    description = "Software engineer and computer science graduate with programming interests in with Java, Python, SQL & C#. And also I equally care about Travel, Politics, Cricket, Formula 1, Movies and everything related to Boston and Hyderabad"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
+    gitCommitPrefix = "https://github.com/py563/py563.github.io/commit/"
+	
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/prajwalyashasvi/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/py563/"
+
+[[params.handles]]
+    name = "GitLab"
+    link = "https://gitlab.com/PY563"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/py563"
+
+[[params.handles]]
+link = "https://keybase.io/prajwalyashasvi"
+name = "Keybase"
+
+[outputs]
+home = ["HTML", "JSON"]

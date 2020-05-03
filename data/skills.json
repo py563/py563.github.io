@@ -1,0 +1,27 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","Python","C#","VB.NET","git","linux","Windows","jquery","javascript", "C","CA Harvest","Microsoft Outlook"]
+  },
+  {
+      "grouping":"Databases & Frameworks",
+      "skills":[ "MySQL","Oracle","Orient DB","Elastic Search", "Struts", "Spring", "Hibernate", "Django"," Apache Wicket", "Angular", "React"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"}
+      ]
+  },
+  {
+      "grouping":"Domain Knowledge",
+      "skills":
+		[ "Cyber Security, Information Security", "Health Care",
+			{
+			"name":"Unemployment Insurance",
+			"link" : "https://www.nhes.nh.gov/"
+			} 
+		]
+  }
+]
