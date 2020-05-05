@@ -1,21 +1,33 @@
 [
-    {
-        "role":"Research Engineer",
-        "company":"Philips",
-        "summary":"As a research engineer in CISO I developed an anti-phishing platform for Microsoft Outlook, developed a script to classify training and awareness emails reported by employees. Designed Java based threat learning and visualization platform, which stored and parsed threat streams and internal threat history data as nodes and edges in graph database schematics through Orient DB.",
-        "range":"April 2016 - July 2017"
-    },
-    {
-        "role":"Software Engineer",
-        "company":"SymbioSys Solutions Inc",
-		"project": "New Hampshire State Unemployment Insurance",
-        "summary":"Supported the existing NHUIS system through CV Harvest based enhancement and defects requests,Enhanced NHUIS to reflect changes in updated RESEA program of US Labor Dept. Designed user web help guide for the applications, performed Cross Browser Testing and tests for Section 508 and W3C standards. Helped team in redesigning existing system to Spring framework, Hibernate & HTML5.",
-        "range":"May 2015 – Feb 2016"
-    },
-    {
-        "role":"Associate Software Engineer",
-        "company":"Tech Mahindra",
-        "summary":"At Tech Mahindra as fresh graduate from school, I was assigned to training program in Java-J2EE, wherein worked on case studies as proof of concepts in Spring, Hibernate and Struts frameworks. Later I worked on Integrated Test Data Management framework to support test data generation for the projects taken up by organization. I developed user interface and functionality creating ticket and checking status of ticket modules, using Spring MVC framework. Also worked on database design and validating data in tables using MySQL Workbench.",
-        "range":"June 2012 - August 2013"
-    }
+  {
+    "role": "Freelance Tutor and Web Developer",
+    "company": "Yayin AI Lab",
+    "summary": "Dropped out of information management program at Trine University to work on the idea of Yayin an Artificially Intelligent Virtual Personal Travel Aide. Tutored undergraduate students in core computer science courses and languages.",
+    "range": "Jan 2019 - *"
+  },
+  {
+    "role": "Java Developer",
+    "company": "Dataserv Inc",
+    "summary": "Implemented a web-based service using Java/J2EE backend on Spring MVC, REST framework with React JS. Responsible for enhancing the product with new features in Java 8 and React. Applied complex algorithms on Maps, Graphs, Sets, and Arrays collections to optimize traversing, fetching, and searching. Applied Elasticsearch based indexing to the data within MongoDB using ElasticUtils API. Worked with Java map collections to store data Key-Value pair in a JSON object and send it to external API and vice versa.",
+    "range": "Jan 2018 - June 2018"
+  },
+  {
+    "role": "Cyber Security Research Engineer",
+    "company": "Koninklijke Philips N.V.",
+    "summary": "Worked as a consultant for Chief Information Security Office, designed an anti-phishing artificially intelligent platform for Microsoft Outlook. Developed a script to classify training and awareness emails from actual emails that employees report to the organization’s anti-phishing mailbox. We designed a threat learning and visualization platform responsible to store and parse threat streams (external and internal). The system then revamped both structured and unstructured data as nodes and edges into a graph database. When security analyst queries, the React script interacts with the Machine Learning model to predict and visualize an established history of the threat on the User Interface.",
+    "range": "April 2016 - July 2017"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "SymbioSys Solutions Inc",
+    "project": "New Hampshire State Unemployment Insurance",
+    "summary": "Symbiosys provides IT services for New Hampshire Employment Services. NHES operates web service to manage the life cycle of unemployment insurance claims and to integrate with related US federal employment systems and policies. I provided support to enhance and remove defects in the existing system through the CA Harvest ticketing and versioning tool. I made necessary code changes to the existing NHUIS web site to reflect updated policy changes in the RESEA program of the Labor Department. I also documented and redesigned the help section of the service. We were also simultaneously rewriting the legacy system to a more secure web service that uses Spring Framework, Hibernate ORM, and JPA standard. It is used by claimants across [New Hampshire](https://nhuis.nh.gov/claimant/).",
+    "range": "May 2015 – Feb 2016"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "company": "Tech Mahindra",
+    "summary": "I was on a team tasked to design and develop the Integrated Test Data Management tool to support test data generation for projects. ITDM tracks test data from the requirements gathering phase to the reporting phase that improves code coverage and coordination between teams. ITDM enables the tester to fulfill the test data requirements and to upload the test data to different environments. In my senior year, a few weeks before graduation Tech Mahindra offered me a chance to venture into professional software development. Recent graduates were mandated to a ten-week fast-paced training session to learn, refresh, improve skills in Java-J2EE, SQL Databases, Design Patterns, Struts, Spring, and Hibernate ORM frameworks. We worked on multiple POCs throughout the session to understand and demonstrate design patterns and frameworks.",
+    "range": "June 2012 - August 2013"
+  }
 ]
