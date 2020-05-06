@@ -25,7 +25,7 @@ enableGitInfo = true
     contactNote = "Java and Python Developer"
     profileImage = "img/TechChat.png"
     email = "prajwalyashasvi@yahoo.co.in"
-    description = "Prajwal has around five years of experience as developer in Java, Python & SQL. He worked in Cyber Security Research, Unemployment Insurance, and Travel domains."
+    description = "Prajwal has around five years of experience as developer in Java, Python & SQL. He worked on Cyber Security Research, Unemployment Insurance, and Travel domains."
     favicon = "images/favicon.ico"
     
     # what sections
@@ -49,10 +49,6 @@ enableGitInfo = true
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/py563/"
-
-[[params.handles]]
-    name = "Blogger"
-    link = "https://memoirs.prajwalyashasvi.in/"
 
 [[params.handles]]
     name = "Twitter"
