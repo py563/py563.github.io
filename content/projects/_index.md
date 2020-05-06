@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 sitemap:
-  priority : 0.9
+  priority: 0.9
 ---
-<p>This section contains projects <a href="/projects/creations">created</a> and <a href="/projects/contributions">contbriuted</a> to by Prajwal.  Everything listed is an open source effort, the distinction is only my role as owner or contributor.</p>
+
+This section highlights collection of websites on internet, that are designed, developed or maintianed by Prajwal and efforts to which I contributed in open source community.
