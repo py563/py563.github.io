@@ -31,7 +31,7 @@ enableGitInfo = true
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = true
+    showOpenSource = false
     showPublications = true
     publicationsAlternateName = "Presentations"
     showExperience = true
@@ -51,8 +51,8 @@ enableGitInfo = true
     link = "https://github.com/py563/"
 
 [[params.handles]]
-    name = "GitLab"
-    link = "https://gitlab.com/PY563"
+    name = "Blogger"
+    link = "https://memoirs.prajwalyashasvi.in/"
 
 [[params.handles]]
     name = "Twitter"
