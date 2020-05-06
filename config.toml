@@ -62,6 +62,9 @@ enableGitInfo = true
     name = "Calendar"
     link = "https://calendly.com/reach-py563"
 
+[permalinks]
+  publications = "/presentations/:title/"
+  
 [params.google.analytics]
     trackerID = "UA-162845368-2"
     
