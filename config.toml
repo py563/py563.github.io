@@ -1,11 +1,19 @@
 baseURL = "https://py563.github.io/"
 languageCode = "en-us"
-title = "PYM"
+title = "PY563"
 theme = "hugo-resume"
-PygmentsCodeFences = true
-PygmentsCodeFencesGuessSyntax = true
-PygmentsStyle = "monokai"
 enableGitInfo = true
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    tabWidth = 4
+    style = "tango"
 
 [taxonomies]
     tag = "tags"
@@ -13,24 +21,26 @@ enableGitInfo = true
 [params]
     firstName = "Prajwal"
     lastName = "Maredukonda"
-    address = "South Bend, IN"
-    contactNote = "Software Engineer"
+    address = "Warangal, TG, India"
+    contactNote = "Java and Python Developer"
     profileImage = "img/TechChat.png"
     email = "prajwalyashasvi@yahoo.co.in"
-    description = "Software engineer and computer science graduate with programming interests in with Java, Python, SQL & C#. And also I equally care about Travel, Politics, Cricket, Formula 1, Movies and everything related to Boston and Hyderabad"
+    description = "Prajwal has around five years of experience as developer in Java, Python & SQL. He worked on Cyber Security Research, Unemployment Insurance, and Travel domains."
     favicon = "images/favicon.ico"
+    
     # what sections
     showSkills = true
-    showProjects = false
+    showProjects = true
     showOpenSource = false
     showPublications = true
+    publicationsAlternateName = "Presentations"
     showExperience = true
     showEducation = true
-
+    showBlog = true
     showQr = true
 
 	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
-    gitCommitPrefix = "https://github.com/py563/py563.github.io/commit/"
+    gitCommitPrefix = "https://github.com/py563/cv-hugo/commit/"
 	
 [[params.handles]]
     name = "LinkedIn"
@@ -41,16 +51,22 @@ enableGitInfo = true
     link = "https://github.com/py563/"
 
 [[params.handles]]
-    name = "GitLab"
-    link = "https://gitlab.com/PY563"
-
-[[params.handles]]
     name = "Twitter"
     link = "https://twitter.com/py563"
 
 [[params.handles]]
-link = "https://keybase.io/prajwalyashasvi"
-name = "Keybase"
+    link = "https://keybase.io/prajwalyashasvi"
+    name = "Keybase"
 
+[[params.handles]]
+    name = "Calendar"
+    link = "https://calendly.com/reach-py563"
+
+[permalinks]
+  publications = "/presentations/:title/"
+  
+[params.google.analytics]
+    trackerID = "UA-162845368-2"
+    
 [outputs]
 home = ["HTML", "JSON"]

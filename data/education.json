@@ -1,20 +1,23 @@
 [
-    {
-        "school":"Trine University",
-        "range":"2018 - (Current)"
-    },
-    {
-        "school":"University of Massachusetts, Lowell",
-        "degree":"Master of Science",
-        "major":"Computer Science",
-        "courses": "Operating Systems, Data Communications, Internet and Web Systems, Algorithms, Machine Learning, Artificial Intelligence",
-        "range":"2013 - 2015"
-    },
-    {
-        "school":"Balaji Institute of Technology & Sciences",
-        "degree":"Bachelor in Technology",
-        "major":"Computer Science",
-		"courses": "C, Data Structures, Design and Principles of Programming Languages, Compiler Design, Java, Networking",
-        "range":"2007 - 2011"
-    }
+  {
+    "school": "[Trine University](https://trine.edu/)",
+    "degree": "Master of Science",
+    "major": "Information Studies and Entrepreneurship",
+    "notes": "Dropped out",
+    "range": "2018"
+  },
+  {
+    "school": "[University of Massachusetts, Lowell](https://www.uml.edu)",
+    "degree": "Master of Science",
+    "major": "Computer Science",
+    "notes": "Operating Systems, Data Communications, Internet and Web Systems, Algorithms, Machine Learning, Artificial Intelligence",
+    "range": "2013 - 2015"
+  },
+  {
+    "school": "[Balaji Institute of Technology & Sciences](https://www.bitswgl.ac.in/)",
+    "degree": "Bachelor in Technology",
+    "major": "Computer Science",
+    "notes": "C, Data Structures, Design and Principles of Programming Languages, Compiler Design, Java, Networking",
+    "range": "2007 - 2011"
+  }
 ]

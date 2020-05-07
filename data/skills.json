@@ -1,27 +1,63 @@
 [
   {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","C#","VB.NET","git","linux","Windows","jquery","javascript", "C","CA Harvest","Microsoft Outlook"]
+    "grouping": "Languages",
+    "skills": [
+      "Java",
+      "Python",
+      "Javascript",
+      "c",
+      "HTML5",
+      { "name": "C# & VB.net", "icon": "dotnet" }
+    ]
   },
   {
-      "grouping":"Databases & Frameworks",
-      "skills":[ "MySQL","Oracle","Orient DB","Elastic Search", "Struts", "Spring", "Hibernate", "Django"," Apache Wicket", "Angular", "React"]
+    "grouping": "Databases",
+    "skills": [
+      "MySQL",
+      { "name": "Oracle", "icon": "database" },
+      { "name": "OrientDB", "icon": "database" },
+      { "name": "Elastic Search", "icon": "database" },
+      "MongoDB"
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"}
-      ]
+    "grouping": "Frameworks",
+    "skills": [
+      "Struts",
+      { "name": "Spring", "icon": "coda" },
+      { "name": "Hibernate", "icon": "database" },
+      "Django",
+      "Apache Wicket",
+      "React",
+      { "name": "HUGO", "icon": "go" },
+      { "name": "Gatsby", "icon": "react" }
+    ]
   },
   {
-      "grouping":"Domain Knowledge",
-      "skills":
-		[ "Cyber Security, Information Security", "Health Care",
-			{
-			"name":"Unemployment Insurance",
-			"link" : "https://www.nhes.nh.gov/"
-			} 
-		]
+    "grouping": "Operating Systems & Containers & Cloud",
+    "skills": ["Linux", "Windows", "Docker", "AWS"]
+  },
+  {
+    "grouping": "Tools",
+    "skills": [
+      "git",
+      { "name": "CA Harvest", "icon": "git_pull_request" },
+      { "name": "Microsoft Outlook", "icon": "windows" },
+      { "name": "Adobe Robohelp", "icon": "illustrator" },
+      { "name": "VS Code", "icon": "visualstudio" },
+      "Eclipse",
+      { "name": "MySQL Workbench", "icon": "mysql" }
+    ]
+  },
+  {
+    "grouping": "Domain Knowledge",
+    "skills": [
+      "Cyber Security, Information Security",
+      "Health Care",
+      {
+        "name": "Unemployment Insurance",
+        "link": "https://www.nhes.nh.gov/"
+      }
+    ]
   }
 ]
