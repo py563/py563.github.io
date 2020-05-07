@@ -1,5 +1,7 @@
 # Resume - CV - Portfolio
 
+![github pages](https://github.com/py563/cv-hugo/workflows/github%20pages/badge.svg?branch=hugo-change)
+
 Available at prajwalyashasvi.in and blogspot is on memoirs subdomian.
 
 To deploy push changes to hugo-change branch from master. For deployment githubpages through Actions uses gh-pages branch.
@@ -16,7 +18,7 @@ content presented on the homepage. to change refer.
 
 All personal information outside the above details is captured by params in config.toml, or can be edited in the "Settings" collection if using CMS.
 
-## CMS Editor with Netlify CMS
+## CMS Editor with Netlify CMS -- Not Implemented
 
 > Does not require deployment to Netlify!
 
