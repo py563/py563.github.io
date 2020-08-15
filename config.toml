@@ -58,10 +58,6 @@ enableGitInfo = true
     link = "https://keybase.io/prajwalyashasvi"
     name = "Keybase"
 
-[[params.handles]]
-    name = "Calendar"
-    link = "https://calendly.com/reach-py563"
-
 [permalinks]
   publications = "/presentations/:title/"
   
