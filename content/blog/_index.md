@@ -4,4 +4,4 @@ sitemap:
   priority: 0.9
 ---
 
-This section has posts about the blogs hosted by prajwal and links to those blogs.
+Here are few hyperlinks of the blogs that are maintained or authored by prajwal.
